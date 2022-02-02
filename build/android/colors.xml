@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Wed, 02 Feb 2022 02:22:43 GMT
+-->
+<resources>
+  <color name="color_primary_red70">#ff870000</color>
+  <color name="color_primary_red60">#ffca101a</color>
+  <color name="color_primary_red50">#ffec1a24</color>
+  <color name="color_primary_red40">#fff0444c</color>
+  <color name="color_primary_red30">#fff5868b</color>
+  <color name="color_primary_red20">#fffbc9cc</color>
+  <color name="color_primary_red10">#ffffedee</color>
+  <color name="color_neutral_cloud70">#ff0b1a28</color>
+  <color name="color_neutral_cloud60">#ff31475e</color>
+  <color name="color_neutral_cloud50">#ff677a8e</color>
+  <color name="color_neutral_cloud40">#ffacb8c3</color>
+  <color name="color_neutral_cloud30">#ffdae0e7</color>
+  <color name="color_neutral_cloud20">#fff3f5f7</color>
+  <color name="color_neutral_cloud10">#ffffffff</color>
+  <color name="color_special_green50">#ff31b057</color>
+  <color name="color_special_green40">#ff4fce75</color>
+  <color name="color_special_green30">#ff80db9b</color>
+  <color name="color_special_green20">#ffbfedcd</color>
+  <color name="color_special_green10">#ffeffbf3</color>
+  <color name="color_special_yellow50">#ffe79b04</color>
+  <color name="color_special_yellow40">#fffcc149</color>
+  <color name="color_special_yellow30">#fffdd27b</color>
+  <color name="color_special_yellow20">#fffee3ac</color>
+  <color name="color_special_yellow10">#fffff8eb</color>
+  <color name="color_special_blue50">#ff237ae1</color>
+  <color name="color_special_blue40">#ff469bff</color>
+  <color name="color_special_blue30">#ff64b9ff</color>
+  <color name="color_special_blue20">#ffa9e0ff</color>
+  <color name="color_special_blue10">#ffebf8ff</color>
+  <color name="color_special_purple50">#ff5e4cbd</color>
+  <color name="color_special_purple40">#ff8372de</color>
+  <color name="color_special_purple30">#ffa190fc</color>
+  <color name="color_special_purple20">#ffbfaeff</color>
+  <color name="color_special_purple10">#ffefebff</color>
+  <color name="color_btnpri_default">#fff0444c</color>
+  <color name="color_btnpri_hover">#ffec1a24</color>
+  <color name="color_btnpri_selected">#ffca101a</color>
+  <color name="color_btnpri_disable">#fffbc9cc</color>
+  <color name="color_btnsec_default">#ff677a8e</color>
+  <color name="color_btnsec_hover">#ff31475e</color>
+  <color name="color_btnsec_selected">#ff0b1a28</color>
+  <color name="color_btnsec_disable">#ffdae0e7</color>
+  <color name="color_bg_light">#ffffffff</color>
+  <color name="color_bg_neutral">#fff3f5f7</color>
+  <color name="color_bg_neutral_alt">#ffdae0e7</color>
+  <color name="color_bg_red">#ffffedee</color>
+  <color name="color_bg_sinbadred">#ffec1a24</color>
+  <color name="color_bg_green">#ffeffbf3</color>
+  <color name="color_bg_green_alt">#ff31b057</color>
+  <color name="color_bg_blue">#ffebf8ff</color>
+  <color name="color_bg_yellow">#fffff8eb</color>
+  <color name="color_bg_purple">#ffefebff</color>
+  <color name="color_bg_dark">#ff0b1a28</color>
+  <color name="color_text_default">#ff0b1a28</color>
+  <color name="color_text_default_light">#ffffffff</color>
+  <color name="color_text_secondary">#ff677a8e</color>
+  <color name="color_text_placeholder">#ffdae0e7</color>
+  <color name="color_text_disable">#ffacb8c3</color>
+  <color name="color_text_selected">#ffec1a24</color>
+  <color name="color_text_success">#ff31b057</color>
+  <color name="color_text_link">#ff237ae1</color>
+  <color name="color_text_warning">#ffe79b04</color>
+  <color name="color_text_error">#ffca101a</color>
+  <color name="color_stroke_default">#ffdae0e7</color>
+  <color name="color_stroke_disable">#ffdae0e7</color>
+  <color name="color_stroke_active">#ff31475e</color>
+  <color name="color_stroke_success">#ff31b057</color>
+  <color name="color_stroke_error">#fff5868b</color>
+  <color name="color_stroke_primary">#ffec1a24</color>
+  <color name="color_icon_default">#ffacb8c3</color>
+  <color name="color_icon_error">#fff5868b</color>
+  <color name="color_icon_red">#fff0444c</color>
+  <color name="color_icon_yellow">#fffcc149</color>
+  <color name="color_icon_blue">#ff469bff</color>
+  <color name="color_icon_green">#ff4fce75</color>
+  <color name="color_icon_dark">#ff0b1a28</color>
+  <color name="color_icon_white">#ffffffff</color>
+  <color name="color_icon_purple">#ff8372de</color>
+  
+</resources>
